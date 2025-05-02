@@ -10,7 +10,6 @@ This repository is a comprehensive collection of data structures and algorithms 
 - Clean and well-documented Java code.
 - Solutions to classical and modern DSA problems.
 - Easy to navigate folder structure by topic.
-- Aligned with University of Dhaka CSE 2-2 curriculum.
 
 ---
 
@@ -45,13 +44,6 @@ This repository is a comprehensive collection of data structures and algorithms 
 - Real coding interview questions with explanations.
 
 ---
-
-## 🎓 CSE 2-2 Course Materials
-This repository also includes DSA problems and algorithms relevant to:
-- CSE 220: Data Structures
-- CSE 221: Algorithms
-- CSE 224: Computer Organization
-- Lab assignments and practical problems
 
 ---
 
