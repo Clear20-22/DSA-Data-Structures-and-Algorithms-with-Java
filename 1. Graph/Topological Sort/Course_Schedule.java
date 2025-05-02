@@ -21,8 +21,10 @@ Example 3:
 Input: numCourses = 1, prerequisites = []
 Output: [0]*/
 
-
-
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collections;
+import java.util.List;
 
 class Solution {
     public int[] findOrder(int numCourses, int[][] prerequisites) {

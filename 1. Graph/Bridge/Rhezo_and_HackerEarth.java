@@ -56,7 +56,7 @@ So the department remains connected and is still happy.
 
 import java.util.*;
 
-public class Main {
+public class Rhezo_and_HackerEarth {
     public static void main(String[] args) {
         Scanner take = new Scanner(System.in);
 
